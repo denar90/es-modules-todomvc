@@ -14,4 +14,8 @@ Will work in your browser in these cases:
 
 --------------
 
+## Run with h2 push
+ - `yarn h2-server-start`
+ 
+
 Repo was forked and adjusted from [@kentcdodds' es6-todomvc](https://github.com/kentcdodds/es6-todomvc). Thanks Kent!
